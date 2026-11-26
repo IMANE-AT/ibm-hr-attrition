@@ -1,0 +1,9 @@
+# Local datasets
+/data/
+/datasets/
+*.csv
+
+# Local Python and Jupyter files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
